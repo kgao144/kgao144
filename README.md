@@ -1,4 +1,4 @@
-##Hi there, I am Kevin Gao.
+## Hi there, I am Kevin Gao.
 
 ```
 I have Bachelor degrees from Georgia Southern University in both Computer Science and Mechanical Engineering.
